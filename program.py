@@ -1,3 +1,3 @@
-#gagagaga
+#IIIIIIIIII
 !!!!!!!!
-print("Ich libe dich!!!")
+print("AAAAAAAA!")
