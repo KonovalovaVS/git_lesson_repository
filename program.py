@@ -1,3 +1,2 @@
-#gagagaga
-!!!!!!!!
-print("Ich libe dich!!!")
+#bababba
+print('AAAAAAA!!!!!')
